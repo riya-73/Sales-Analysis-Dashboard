@@ -77,6 +77,7 @@ Top products 🏆
 Customer insights 👥
 
 Check:
+
 📊 Key insights
 
 🚀 Business recommendations
@@ -110,6 +111,9 @@ Contributions are welcome!
 Steps:
 
 Fork the repository
+
 Create a new branch
+
 Make changes
+
 Submit a pull request
