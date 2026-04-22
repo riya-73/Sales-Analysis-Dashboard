@@ -39,8 +39,10 @@ Storage: Excel (.xlsx)
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/ecommerce-dashboard.git
 cd ecommerce-dashboard
+
 2️⃣ Install Dependencies
 pip install streamlit pandas plotly openpyxl
+
 3️⃣ Run the Application
 streamlit run app.py
 
