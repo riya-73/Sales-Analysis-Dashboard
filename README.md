@@ -21,7 +21,6 @@ No coding required to input new sales data
 💾 Excel Data Storage
 Automatically saves data in ecommerce_data.xlsx
 
---
 🛠️ Tech Stack
 --
 Frontend/UI: Streamlit
@@ -35,7 +34,6 @@ Storage: Excel (.xlsx)
 │── ecommerce_data.xlsx     # Auto-generated data file
 │── README.md               # Project documentation
 
---
 ⚙️ Installation & Setup
 --
 1️⃣ Clone the Repository
@@ -46,7 +44,6 @@ pip install streamlit pandas plotly openpyxl
 3️⃣ Run the Application
 streamlit run app.py
 
---
 🧑‍💻 How to Use
 --
 Open the dashboard in your browser
@@ -68,12 +65,17 @@ Gender distribution trends
 
 
 🚀 Future Improvements
+--
 🔐 User authentication system
+--
 ☁️ Cloud database (MongoDB / PostgreSQL)
+--
 📉 Advanced analytics (forecasting, ML models)
+--
 🌍 Deployment (Streamlit Cloud / Render / AWS)
+--
 📦 API integration (Shopify, Amazon, etc.)
---------------------------------------------
+--
 🤝 Contribution
 
 Contributions are welcome!
