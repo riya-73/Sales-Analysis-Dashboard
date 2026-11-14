@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.sqlite
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+ecommerce_data.xlsx
